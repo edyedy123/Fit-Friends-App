@@ -15,7 +15,8 @@ I am a Software development student at Seneca@york. I have programed in a variet
 ##### Riyad Almalki
 ----
 ##### Gerald Encabo
-----
+I am Gerald Encabo and currently studying at Seneca College @ York Campus as Software Developer. During my first and second year of studies, I have learned variety of programming languages such as HTML, CSS, JavaScript, Basic C, C++, Java, Bootstrap, ASP.net, JQuery, PHP and SQL. I love building websites and apps especially making android application because I enjoy coding using Java which is a language that is easy to learn and play around it!
+
 
 ## Project Overview
 
