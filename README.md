@@ -1,5 +1,5 @@
 # Group_24
-## Group Memebers:
+## Group Members:
     ●   Cha Li
     ●   Eduardo Sorozabal
     ●   Riyad Almalki
