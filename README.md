@@ -11,7 +11,7 @@ For this project, We will be acting as our own client.
 I am a Software development student at Seneca@york. I have programed in a variety of languages in my studies including C/C++, HTML/CSS/JavaScript, and Java. I enjoy android app making the most because it uses Java, a language I am comfortable with, and it isn’t too hard to make a good app. I also have experience with photoshop.
 
 ##### Cha Li 
-----
+I am a seneca student currently in BSD program. I have learned a lots of different language through the learning in seneca college that include C++, Java and more. Android is great platform which has massive of users. I enjoy develop Android application and share my experience with others.
 ##### Riyad Almalki
 ----
 ##### Gerald Encabo
