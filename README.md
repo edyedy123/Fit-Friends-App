@@ -52,7 +52,7 @@ In what follows, we present a list of important requirements that the system mus
 * Passwords and user information must be saved in a secure manner(Through Google Firebase).
 * It should mantain user's sign in authentication, even if they switch to other views.
 * Username and password must be at least minimum length of 8 characters and maximum of 32 characters.
-* Password must contain at least 1 lowercase & 1 uppercase letter, 1 number (0-9), and 1 special character (!@#$%^&*). 
+* Password must contain at least 1 lowercase and 1 uppercase letter.
 #### Logical Requirements
 * Users should only be able to see workouts of friends that have added accepted their friend request.
 * Workouts must be able to be added, deleted and edited.
