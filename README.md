@@ -56,5 +56,6 @@ In what follows, we present a list of important requirements that the system mus
 #### Logical Requirements
 * Users should only be able to see workouts of friends that have added accepted their friend request.
 * Workouts must be able to be added, deleted and edited.
+* App will prevent user from check friend's workout unless they were log in
 #### Communication Requirements
 * Error handling should be handled through toasts with meaningful error messages whenever invalid data is entered. If there are restrictions, they should be written for the user to see.
