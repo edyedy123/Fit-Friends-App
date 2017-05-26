@@ -11,8 +11,10 @@ For this project, We will be acting as our own client.
 I am a Software development student at Seneca@york. I have programed in a variety of languages in my studies including C/C++, HTML/CSS/JavaScript, and Java. I enjoy android app making the most because it uses Java, a language I am comfortable with, and it isn’t too hard to make a good app. I also have experience with photoshop.
 
 ##### Cha Li 
-I am a seneca student currently in BSD program. I have learned a lots of different language through the learning in seneca college that include C++, Java and more. Android is great platform which has massive of users. I enjoy develop Android application and share my experience with others.
+----
 ##### Riyad Almalki
+I'm a fourth year student at Seneca@York studying Software development. I have a two years diploma in Computer Science (Programming Technology), I also worked as an IT and Database Administrator for 6 years. I have worked with many programming languages during my career and in school including Visual Basic, C/C++, HTML/CSS/JavaScript/PHP and C#. Furthermore, I’m experienced in designing and managing databases using SQL Server and Oracle SQL. I have designed and developed android applications using Android Studio.
+
 ----
 ##### Gerald Encabo
 I am Gerald Encabo and currently studying at Seneca College @ York Campus as Software Developer. During my first and second year of studies, I have learned variety of programming languages such as HTML, CSS, JavaScript, Basic C, C++, Java, Bootstrap, ASP.net, JQuery, PHP and SQL. I love building websites and apps especially making android application because I enjoy coding using Java which is a language that is easy to learn and play around it!
@@ -21,7 +23,7 @@ I am Gerald Encabo and currently studying at Seneca College @ York Campus as Sof
 ## Project Overview
 
 ### Business Statement
-Fit Friends is an app that allows users to record their workouts with a simple and easy to use interface and be able to view their friend’s workouts.
+Fit Friends is a work out application for Android with a simple and easy to use interface that allows registered users to keep track of their daily work out plans. The applicant has a pre-logged work out plans for new users to use, and the user can add, edit or create a new work out plans for each day of the week. The applicant biggest feature is the that the user can share their newly created work out plans as well as the number of sets for each work out with their friends which motive other to train harder and create a competitive environment. The application has an easy to use tools that allow the users to specify the day, the part of the body that will be effected by the work out and the number of sets for each day. 
 
 #### Similar apps in the Google Play Store:
 
@@ -46,16 +48,20 @@ In what follows, we present a list of important requirements that the system mus
 * It must be availabe 24/7 through Firebase.
 * It must have offline capability.
 * Should be accesible to most android devices.
+* The adnroid device should have access to internet to register and view the work out plan for the first time.
 
 #### Security Requirements
 * Users must sign in before being able to access their information.
 * Passwords and user information must be saved in a secure manner(Through Google Firebase).
 * It should mantain user's sign in authentication, even if they switch to other views.
-* Username and password must be at least minimum length of 8 characters and maximum of 32 characters.
+* User must register using valid email address.
+* User must verify the email address.
+* Password must be at least minimum length of 8 characters and maximum of 32 characters.
 * Password must contain at least 1 lowercase and 1 uppercase letter.
 #### Logical Requirements
+* Only logged in users can view and share work out plans.
+* Only the original owner of the plan can make changes to the plan.
 * Users should only be able to see workouts of friends that have added accepted their friend request.
 * Workouts must be able to be added, deleted and edited.
-* App will prevent user from check friend's workout unless they were log in
 #### Communication Requirements
 * Error handling should be handled through toasts with meaningful error messages whenever invalid data is entered. If there are restrictions, they should be written for the user to see.
