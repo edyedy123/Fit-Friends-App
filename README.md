@@ -62,5 +62,6 @@ In what follows, we present a list of important requirements that the system mus
 * Only the original owner of the plan can make changes to the plan.
 * Users should only be able to see workouts of friends that have accepted their friend request.
 * Workouts must be able to be added, deleted and edited.
+* Friend workouts can be copied, modified and added to your own workout plan.
 #### Communication Requirements
 * Error handling should be handled through toasts with meaningful error messages whenever invalid data is entered. If there are restrictions, they should be written for the user to see.
