@@ -58,7 +58,7 @@ In what follows, we present a list of important requirements that the system mus
 * Password must be at least minimum length of 8 characters and maximum of 32 characters.
 * Password must contain at least 1 lowercase and 1 uppercase letter.
 #### Logical Requirements
-* Only logged in users can view and share work out plans.
+* Only logged in users can view workouts.
 * Only the original owner of the plan can make changes to the plan.
 * Users should only be able to see workouts of friends that have accepted their friend request.
 * Workouts must be able to be added, deleted and edited.
