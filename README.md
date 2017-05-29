@@ -16,7 +16,6 @@ I am a seneca student currently in the BSD program. I have learned a lot of diff
 ##### Riyad Almalki
 I'm a fourth year student at Seneca@York studying Software development. I have a two years diploma in Computer Science (Programming Technology), I also worked as an IT and Database Administrator for 6 years. I have worked with many programming languages during my career and in school including Visual Basic, C/C++, HTML/CSS/JavaScript/PHP and C#. Furthermore, I’m experienced in designing and managing databases using SQL Server and Oracle SQL. I have designed and developed android applications using Android Studio.
 
-----
 ##### Gerald Encabo
 I am Gerald Encabo and currently studying at Seneca College @ York Campus as Software Developer. During my first and second year of studies, I have learned variety of programming languages such as HTML, CSS, JavaScript, Basic C, C++, Java, Bootstrap, ASP.net, JQuery, PHP and SQL. I love building websites and apps especially making android application because I enjoy coding using Java which is a language that is easy to learn and play around it!
 
