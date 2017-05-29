@@ -8,16 +8,16 @@
 ### Client information
 For this project, We will be acting as our own client. 
 ##### Eduardo Sorozabal
-I am a Software development student at Seneca@york. I have programed in a variety of languages in my studies including C/C++, HTML/CSS/JavaScript, and Java. I enjoy android app making the most because it uses Java, a language I am comfortable with, and it isn’t too hard to make a good app. I also have experience with photoshop.
+I am a Software development student at Seneca @ york. I have programed in a variety of languages in my studies including C/C++, HTML/CSS/JavaScript, and Java. I enjoy Android app making the most because it uses Java, a language I am comfortable with, and it isn’t too hard to make a good app. I also have experience with photoshop.
 
 ##### Cha Li 
-I am a seneca student currently in the BSD program. I have learned a lot of different languages through my stay at seneca college that include C++, Java and more. Android is great platform which has a massive amount of users. I enjoy developing Android applications and shareing my experience with others.
+I am a Seneca student currently in the BSD program. I have learned a lot of different languages through my stay at seneca college that include C++, Java and more. Android is great platform which has a massive amount of users. I enjoy developing Android applications and sharing my experience with others.
 
 ##### Riyad Almalki
-I'm a fourth year student at Seneca@York studying Software development. I have a two years diploma in Computer Science (Programming Technology), I also worked as an IT and Database Administrator for 6 years. I have worked with many programming languages during my career and in school including Visual Basic, C/C++, HTML/CSS/JavaScript/PHP and C#. Furthermore, I’m experienced in designing and managing databases using SQL Server and Oracle SQL. I have designed and developed android applications using Android Studio.
+I'm a fourth year student at Seneca@York studying Software development. I have a two year diploma in Computer Science (Programming Technology), I also worked as an IT and Database Administrator for 6 years. I have worked with many programming languages during my career and in school including Visual Basic, C/C++, HTML/CSS/JavaScript/PHP and C#. Furthermore, I’m experienced in designing and managing databases using SQL Server and Oracle SQL. I have designed and developed Android applications using Android Studio.
 
 ##### Gerald Encabo
-I am Gerald Encabo and currently studying at Seneca College @ York Campus as Software Developer. During my first and second year of studies, I have learned variety of programming languages such as HTML, CSS, JavaScript, Basic C, C++, Java, Bootstrap, ASP.net, JQuery, PHP and SQL. I love building websites and apps especially making android application because I enjoy coding using Java which is a language that is easy to learn and play around it!
+I am Gerald Encabo and currently studying at Seneca College @ York Campus as Software Developer. During my first and second year of studies, I have learned variety of programming languages such as HTML, CSS, JavaScript, Basic C, C++, Java, Bootstrap, ASP.net, JQuery, PHP and SQL. I love building websites and apps especially making Android applications because I enjoy coding using Java which is a language that is easy to learn and play around with!
 
 
 ## Project Overview
