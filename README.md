@@ -39,7 +39,7 @@ Fit Friends is similar to FitNotes and other apps like it in the functionality o
 
 Fit Friends will allow the user to sign up for an account and log in. The user will be able to view all his workouts by date in the home screen. The user can the add workouts by selecting a workout and inputting the weight and reps for each set. When the user adds a workout it will be viewable by all his friends on Fit Friends. The user can add friends and view their workouts on the friends screen.
 
-Fit Friends is ideal for any passionate gym goers who are constantly trying to improve and want feedback from their friends. No longer will you have to nag your friends into typing out their workouts on the group chat or over text, you will be able to quickly and effortlessly view their workouts yourself. This will help new gym goers learn new workouts from their friends without all the hassle of research or experienced gym goers to compete with their friends and try new workouts. Use Fit Friends online or offline, the app will update when you get internet again!
+Fit Friends is ideal for any passionate gym goers who are constantly trying to improve and want feedback from their friends. No longer will you have to nag your friends into typing out their workouts on the group chat or over text, you will be able to quickly and effortlessly view their workouts yourself. This will help new gym goers learn new workouts from their friends without all the hassle of research or experienced gym goers to compete with their friends and try new workouts.
 
 ### Key System Requirements
 In what follows, we present a list of important requirements that the system must have in order to solve the bussiness problem:
