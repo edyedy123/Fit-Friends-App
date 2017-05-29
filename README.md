@@ -42,17 +42,17 @@ Fit Friends will allow the user to sign up for an account and log in. The user w
 Fit Friends is ideal for any passionate gym goers who are constantly trying to improve and want feedback from their friends. No longer will you have to nag your friends into typing out their workouts on the group chat or over text, you will be able to quickly and effortlessly view their workouts yourself. This will help new gym goers learn new workouts from their friends without all the hassle of research or experienced gym goers to compete with their friends and try new workouts.
 
 ### Key System Requirements
-In what follows, we present a list of important requirements that the system must have in order to solve the bussiness problem:
+In what follows, we present a list of important requirements that the system must have in order to solve the business problem:
 
 #### General Requirements   
-* It must be availabe 24/7 through Firebase.
+* It must be available 24/7 through Firebase.
 * It must have offline capability.
-* Should be accesible to most android devices.
+* Should be accessible to most android devices.
 
 #### Security Requirements
 * Users must sign in before being able to access their information.
-* Passwords and user information must be saved in a secure manner(Through Google Firebase).
-* It should mantain user's sign in authentication, even if they switch to other views.
+* Passwords and user information must be saved in a secure manner (Through Google Firebase).
+* It should maintain user's sign in authentication, even if they switch to other views.
 * User must register using valid email address.
 * User must verify the email address.
 * Password must be at least minimum length of 8 characters and maximum of 32 characters.
