@@ -23,7 +23,6 @@ I am Gerald Encabo and currently studying at Seneca College @ York Campus as Sof
 ## Project Overview
 
 ### Business Statement
-Fit Friends is an app that allows users to record their workouts with a simple and easy to use interface and be able to view their friend’s workouts.
 
 #### Similar apps in the Google Play Store:
 
