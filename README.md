@@ -72,7 +72,7 @@ In what follows, we present a list of important requirements that the system mus
 For this application we will use **Android Studio** to create the application. It is the best IDE to create an android application for the following reasons:
 - It has all the tools and widget we need to create activities and layouts to form the user interface.  
 - **Android Studio** is developed by **Google** and it has all the libraries and tools to develop better Android Application.
-- It uses java and support live code update and rendering.
+- It uses **Java** and support live code update and rendering.
 - Has a great error checking  and code compiler.
 - Has a fast emulator to test the application.
--  Support many operating systems; Windows, Mac and Linux which make it ideal IDE for our team. 
+-  Support many operating systems; **Windows, Mac and Linux** which make it ideal IDE for our team. 
