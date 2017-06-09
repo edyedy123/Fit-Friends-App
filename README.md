@@ -67,6 +67,8 @@ In what follows, we present a list of important requirements that the system mus
 
 ## Technical Overview
 
+This project consists of a **front-end** android application to allow users to log their workouts and view their friend’s workouts and a **back-end** Firebase server for data to be saved and used.
+
 ### Front-end
 
 For this application we will use **Android Studio** to create the application. It is the best IDE for creating android applications for the following reasons:
