@@ -84,12 +84,12 @@ Android Studio uses **Java**.
 
 The application will use **Firebase** as its server to save user information and workouts. We are using **Firebase** instead of creating our own **SQL server** for the following reasons:
 -**Firebase** is integrated with **Android Studio** making it very easy to start using.
--Lots of documentation for **Firebase**, much less code than **SQL**
--We don’t have to host the server.
--Backed by **Google**, making it a stable and trustworthy service.
--Handles authentication simply and securely.
--Has a real-time database, information is synced in milliseconds.
--Has cloud storage to store and server files at **Google** scale.
--Has many features for testing apps such as crash reporting and performance monitoring.
--For more information on **Firebase** visit https://firebase.google.com/
+- Lots of documentation for **Firebase**, much less code than **SQL**
+- We don’t have to host the server.
+- Backed by **Google**, making it a stable and trustworthy service.
+- Handles authentication simply and securely.
+- Has a real-time database, information is synced in milliseconds.
+- Has cloud storage to store and server files at **Google** scale.
+- Has many features for testing apps such as crash reporting and performance monitoring.
+- For more information on **Firebase** visit https://firebase.google.com/
 
