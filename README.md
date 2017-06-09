@@ -99,3 +99,5 @@ The application will use **Firebase** as its server to save user information and
 - Has many features for testing apps such as crash reporting and performance monitoring.
 - For more information on **Firebase** visit https://firebase.google.com/
 
+Filrebase uses **Java** and **JSON**.
+
