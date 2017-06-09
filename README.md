@@ -71,7 +71,13 @@ This project consists of a **front-end** android application to allow users to l
 
 ### Front-end
 
-For this application we will use **Android Studio** to create the application. It is the best IDE for creating **Android** applications for the following reasons:
+For this application we will use **Android Studio** to create the application. All of the **Android Studio** applcations contian 3 important source folders.
+
+- Mainfests folder must have an AndroidManifest.xml in its root directory. The AndroidManifest.xml file contians all the information that the system required before it can run the app's code.
+- Java folder contains all the java source code for application. It also include Junit test code.
+- Res folder contains all the non-code resources. This the place to edit layout, UI strings, Image and more.
+
+It is the best IDE for creating **Android** applications for the following reasons:
 - It has all the tools and widgets we need to create activities and layouts to form the user interface.  
 - **Android Studio** is developed by **Google** and it has all the libraries and tools to develop the best Android Applications.
 - It uses **Java** and supports live code update and rendering.
