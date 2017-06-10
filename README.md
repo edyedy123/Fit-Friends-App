@@ -98,6 +98,8 @@ The application will use **Firebase** as its server to save user information and
 - Has a real-time database, information is synced in milliseconds.
 - Has cloud storage to store and server files at **Google** scale.
 - Has many features for testing apps such as crash reporting and performance monitoring.
+- Hosting an app throught Firebase is easy to set up.
+- Easy to manipulate, reordering and deleting data in database such as video and photo.
 - For more information on **Firebase** visit https://firebase.google.com/
 
 Filrebase uses **Java** and **JSON**.
