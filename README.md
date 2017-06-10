@@ -83,6 +83,7 @@ It is the best IDE for creating **Android** applications for the following reaso
 - It uses **Java** and supports live code update and rendering.
 - Has a great error checking and code compilers.
 - Has a fast emulator to test the application.
+- It features intelligent code editor **IntelliJ IDEA** which make code writing and analyze more easier and accurate.
 - Supports many operating systems; *Windows*, *Mac* and *Linux* which make it the ideal IDE for our team. 
 
 Android Studio uses **Java**.
