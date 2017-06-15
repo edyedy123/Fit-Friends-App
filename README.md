@@ -86,7 +86,6 @@ It is the best IDE for creating **Android** applications for the following reaso
 - It features intelligent code editor **IntelliJ IDEA** which make code writing and analyze more easy and accurate.
 - Supports many operating systems; *Windows*, *Mac* and *Linux* which make it the ideal IDE for our team. 
 
-Android Studio uses **Java**.
 ### Back-end
 
 The application will use **Firebase** as its server to save user information and workouts. We are using **Firebase** instead of creating our own **SQL server** for the following reasons:
