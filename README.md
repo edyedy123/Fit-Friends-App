@@ -91,7 +91,7 @@ It is the best IDE for creating **Android** applications for the following reaso
 The application will use **Firebase** as its server to save user information and workouts. We are using **Firebase** instead of creating our own **SQL server** for the following reasons:
 - **Firebase** is integrated with **Android Studio** making it very easy to start using.
 - Lots of documentation for **Firebase**, much less code than **SQL**
-- We don’t have to host the server.
+- The database is hosted by **Google**.
 - Backed by **Google**, making it a stable and trustworthy service.
 - Handles authentication simply and securely.
 - Has a real-time database, information is synced in milliseconds.
