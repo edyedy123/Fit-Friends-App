@@ -71,9 +71,9 @@ This project consists of a **front-end** android application to allow users to l
 
 ### Front-end
 
-For this application we will use **Android Studio** to create the application. All of the **Android Studio** applcations contain 3 important source folders.
+For this application we will use **Android Studio** to create the applications. All of the **Android Studio** applications contain 3 important source folders.
 
-- Mainfests folder must have an AndroidManifest.xml in its root directory. The AndroidManifest.xml file contians all the information that the system required before it can run the app's code.
+- Manifests folder must have an AndroidManifest.xml in its root directory. The AndroidManifest.xml file contains all the information that the system required before it can run the app's code.
 - Java folder contains all the java source code for application. It also include Junit test code.
 - Res folder contains all the non-code resources. This the place to edit layout, UI strings, Image and more.
 
