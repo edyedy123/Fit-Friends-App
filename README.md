@@ -100,6 +100,3 @@ The application will use **Firebase** as its server to save user information and
 - Hosting an app through Firebase has minimal setup.
 - Easy access to data in database such as video, photo and files.
 - For more information on **Firebase** visit https://firebase.google.com/
-
-Filrebase uses **Java** and **JSON**.
-
