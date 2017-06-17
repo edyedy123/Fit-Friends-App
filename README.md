@@ -105,7 +105,9 @@ The application will use **Firebase** as its server to save user information and
 
 ### Logging an exercise
 **Pre-requisites**: The user has an account in the system and has logged in.
+
 **Actor**: User.
+
 **Use Case Successful Post-conditions**: The user logs an exercise.
 
 1.	The user clicks on **Add exercise**.
