@@ -103,12 +103,12 @@ The application will use **Firebase** as its server to save user information and
 
 ## System Components
 
-### Add Exercice Tool
+### Add Exercise Tool
 Used to create and add exercises to the main screen log by entering the weight and rep information for each set completed. 
 
 ## Use Cases
 
-### Logging an exercise
+### Logging an Exercise
 **Pre-requisites**: The user has an account in the system and has logged in.  
 **Actor**: User.  
 **Use Case Successful Post-conditions**: The user logs an exercise.  
