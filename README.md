@@ -116,12 +116,12 @@ Used to create and add exercises to the main screen log by entering the weight a
 1.	The user clicks on **Add Exercise**.
 2.	The muscle group page is shown for the user to select the muscle group he will want to see exercises for. 
 3.	The user selects a muscle group.
-    *User clicks the system **back** button to go back to the main page to see logged exercises.
+    * User clicks the system **back** button to go back to the main page to see logged exercises.
 4.	The exercises page is shown for the chosen muscle group for the user to select an exercise. 
 5.	The user selects an exercise.
-    *User clicks the system **back** button to go back to the muscle group page.
+    * User clicks the system **back** button to go back to the muscle group page.
 6.	The exercise details page is shown for the user to add the weight and number of reps for each set.
 7.	User enters weight and number of reps and clicks **Save**.
-    *User clicks the system **back** button to go back to the exercises page.
+    * User clicks the system **back** button to go back to the exercises page.
 8.	The system saves the set info and displays it as a list under the save button. The user may continue to add more sets until done. The user may also delete sets by long clicking them.
 
