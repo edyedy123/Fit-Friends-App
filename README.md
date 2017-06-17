@@ -106,12 +106,7 @@ The application will use **Firebase** as its server to save user information and
 ### Logging an exercise
 **Pre-requisites**: The user has an account in the system and has logged in.
 **Actor**: User.
-**Use Case Successful Post-conditions**: The user logs an exercise.
-
-### User Login
-**Pre-requisites**: The user has an account in the system and is currently online.  
-**Actor**: Student.  
-**Use Case Successful Post-conditions**: The user is authenticated by the system.  
+**Use Case Successful Post-conditions**: The user logs an exercise. 
 
 1.	The user clicks on **Add exercise**.
 2.	The muscle group page is shown for the user to select the muscle group he will want to see exercises for. 
