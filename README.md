@@ -117,10 +117,10 @@ Used to create and add exercises to the main screen log by entering the weight a
 
 1. The user clicks on **Account Registration**.
 2. The systems brings up the sign-up registration page.
-3. The users inputs his/her credentials such as first & last name, password and email.
+3. The users inputs his/her credentials such as first & last name, password and email, and the clicks on the **Create Account** button.
 4. The system checks the provided information against the database for any existing registered information, and also check the user information if it meets the security requirements.
    * The system sends error message if the email is already registered on the database record, and if the information provided did not meet the security requirements. The user must re-enter a new credentials to able to be successfully registered.
-5. After successfully registering user account, the system will bring the user into log in page.
+5. After successfully registering user account, the system will bring the user into log-in page.
 
 ### Logging an Exercise
 **Pre-requisites**: The user has an account in the system and has logged in.  
