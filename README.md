@@ -112,7 +112,7 @@ Used to create and add exercises to the main screen log by entering the weight a
 
 ### Users Register for Account
 **Pre-requisites**: The user must register an account to able to login.
-**Actor**: User.  
+
 **Use Case Successful Post-conditions**: The user must used valid information.
 
 1. The user clicks on **Account Registration**.
