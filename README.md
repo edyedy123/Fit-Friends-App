@@ -104,7 +104,7 @@ The application will use **Firebase** as its server to save user information and
 ## System Components
 
 ### Workout Login Tool
-Used to secure the account of the user by simply entering users authentic username and password.
+Used to login to the account of the user by simply entering users authentic username and password.
 ### Add Exercise Tool
 Used to create and add exercises to the main screen log by entering the weight and rep information for each set completed. 
 
