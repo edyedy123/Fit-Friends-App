@@ -111,15 +111,15 @@ Used to create and add exercises to the main screen log by entering the weight a
 ## Use Cases
 
 ### User Registers for an Account
-**Pre-requisites**: User must be online.                                                 
-**Actor**: User.      
+**Pre-requisites**: User must be online.  
+**Actor**: User.  
 **Use Case Successful Post-conditions**: The user successfully creates an account.  
 
 1. The user clicks on **Account Registration**.
 2. The systems brings up the sign-up registration page.
 3. The users inputs his/her credentials such as first & last name, password and email, and the clicks on the **Create Account** button.
 4. The system checks the provided information against the database for any existing registered information, and also checks if the user information meets security requirements.
-   * The system sends an error message if the email is already registered on the database record, and if the information provided did not meet the security requirements. The user must re-enter new credentials to able to be successfully registered.   
+    * The system sends an error message if the email is already registered on the database record, and if the information provided did not meet the security requirements. The user must re-enter new credentials to able to be successfully registered.   
 5. After successfully registering user account, the system will bring the user to the main page.
 
 ### Logging an Exercise
