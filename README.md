@@ -111,9 +111,9 @@ Used to create and add exercises to the main screen log by entering the weight a
 ## Use Cases
 
 ### User Registers for an Account
-**Pre-requisites**: User must be online.                                                  
+**Pre-requisites**: User must be online.                                                 
 **Actor**: User.      
-**Use Case Successful Post-conditions**: The user successfully creates an account.
+**Use Case Successful Post-conditions**: The user successfully creates an account.  
 
 1. The user clicks on **Account Registration**.
 2. The systems brings up the sign-up registration page.
