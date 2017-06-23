@@ -139,3 +139,18 @@ Used to create and add exercises to the main screen log by entering the weight a
     * User clicks the system **back** button to go back to the exercises page.
 8.	The system saves the set info and displays it as a list under the save button. The user may continue to add more sets until done. The user may also delete sets by long clicking them.
 
+
+### Viewing Friend Exercise
+**Pre-requisites**: The user has an account in the system and has logged in. User has at least added friend.  
+**Actor**: User.  
+**Use Case Successful Post-conditions**: Friend workouts are displayed.  
+
+1.	The user clicks on **Friend** in **Main Screen**.
+2.	List of all friends is shown. 
+3.	The user selects a **Friend name** from the list.
+    * User clicks the system **back** button to go back to the main page.
+4.	Friend workout are displayed.
+    *  User clicks the system **back** button to go back to the Friend List.
+    *  User can scroll through their friend’s workouts.
+
+
