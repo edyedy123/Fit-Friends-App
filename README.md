@@ -142,8 +142,10 @@ Used to create and add exercises to the main screen log by entering the weight a
 
 ### Viewing Friend Exercise
 **Pre-requisites**: 
+
 1.The user has an account in the system and has logged in. 
 2.User has at least added friend.  
+
 **Actor**: User.  
 **Use Case Successful Post-conditions**: Friend workouts are displayed.  
 
