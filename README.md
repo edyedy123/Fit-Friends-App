@@ -137,9 +137,9 @@ Used to create and add exercises to the main screen log by entering the weight a
 
 
 ### Logging an Exercise
-**Pre-requisites**: The user has an account in the system and has logged in.
-**Actor**: User.
-**Use Case Successful Post-conditions**: The user logs an exercise.
+**Pre-requisites**: The user has an account in the system and has logged in.  
+**Actor**: User.  
+**Use Case Successful Post-conditions**: The user logs an exercise.  
 
 1.	The user clicks on **Add Exercise**.
 2.	The muscle group page is shown for the user to select the muscle group he will want to see exercises for. 
