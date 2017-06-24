@@ -122,10 +122,24 @@ Used to create and add exercises to the main screen log by entering the weight a
     * The system sends an error message if the email is already registered on the database record, and if the information provided did not meet the security requirements. The user must re-enter new credentials to able to be successfully registered.   
 5. After the user successfully registered an account, the system will bring the user to the login page.
 
+### User Login
+**Pre-requisites:** The user has an account in the system and the system is online.    
+**Actor:** User.    
+**Use Case Successful Post-conditions:** The user is authenticated by the system and logged in.
+1.	The user opens the application.
+2.	The system brings up a model for the user to enter email and password and login button.
+3.	The user enters an email and password and click the login button to login.
+    * The user can create an account by clicking on **“Need an Account?”** button.
+4.	The system checks the user email and password against the firebase authentication system for a match.
+    * The system displays an error message in case authentication fails.
+    * The user can try to enter email and password again to login.
+5.	If the authentication is successful, the user can access his/her profile and exercises screen.
+
+
 ### Logging an Exercise
-**Pre-requisites**: The user has an account in the system and has logged in.  
-**Actor**: User.  
-**Use Case Successful Post-conditions**: The user logs an exercise.  
+**Pre-requisites**: The user has an account in the system and has logged in.
+**Actor**: User.
+**Use Case Successful Post-conditions**: The user logs an exercise.
 
 1.	The user clicks on **Add Exercise**.
 2.	The muscle group page is shown for the user to select the muscle group he will want to see exercises for. 
