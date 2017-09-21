@@ -10,7 +10,7 @@ FitNotes is an app that lets you log your workouts in a simple and easy to use w
 
 
 ## Data store:
-
+FitNotes app will use Firebase as its server to save user information and workouts.
 
 ## Assumptions/Exclusions
 
