@@ -5,7 +5,7 @@ FitNotes app
 
 
 ## Functionality in this POC:
-FitNotes is an app that lets you log your workouts in a simple and easy to use way.
+FitNotes is an app that let the users log in there workouts in a simple and easy way.
 
 
 
