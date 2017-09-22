@@ -1,17 +1,13 @@
 # Proof of Concept
 
 ## Proof of Concept (POC) Name:
-FitNotes app
-
+Logging an Exercise
 
 ## Functionality in this POC:
-FitNotes is an app that let the users log in there workouts in a simple and easy way.
-
-
+A logged in user will log an exercise by selecting from a list of customizable exercises and inputting the weight and reps for each set.
 
 ## Data store:
-FitNotes app will use Firebase as its database server to save users information and workouts. 
+All database tables required for the above functionality are already in place. Firebase updates information in real time.
 
 ## Assumptions/Exclusions
-The functionality of FitNotes is a user can create a simple workout plan were they can upload pictures and add some features which can be share or view by friends.
-
+The functionality to edit and delete existing exercises is not part of this POC.  
