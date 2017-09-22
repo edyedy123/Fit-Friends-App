@@ -1,11 +1,11 @@
 # Proof of Concept
 
 ## Proof of Concept (POC) Name:
-Booking a Meeting
+Logs an exercise
 
 
 ## Functionality in this POC:
-A student user that belongs to a BTS530 group will book a meeting for the group by selecting from meeting times that have been set up by the course instructor. The POC includes logic to ensure that only valid meeting bookings can be made.
+A Logged in user can logs his/her exercise by choose provided exercise. In addtional, User can add the weight and number of reps for each set in detialed page.  POC includes logic to ensure that only valid meeting bookings can be made.
 
 ## Data store:
 All database tables required for the above functionality are already in place; the POC will update existing tables, no additional tables will be created.
