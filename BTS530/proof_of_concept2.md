@@ -10,5 +10,5 @@ A logged in user will log in the list of exercise and select a specific exercise
 All database tables required for the above functionality are already in place. Firebase will update existing list of exercise with no  additional tables will created. Although, there would be additional tables will be created in types of exercise.
 
 ## Assumptions/Exclusions
-The functionality to add or modify existing exercise or work plan list that is not part of this POC.
+The functionality to add/modify an existing exercise or work plan list that is not part of this POC.
 
