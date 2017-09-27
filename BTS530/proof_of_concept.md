@@ -14,7 +14,7 @@ The functionality to edit and delete existing exercises is not part of this POC.
 <br> 
 <br> 
 <br>
-<br>
+
 ## Proof of Concept (POC) Name:
 Adding types of exercises to the list of exercises that the user can pick when logging in his exercises.
      
@@ -28,7 +28,6 @@ All database tables required for the above functionality are already in place. F
 The functionality to add/modify an existing exercise or work plan list that is not part of this POC.
 <br> 
 <br> 
-<br>
 <br>
 ## Proof of Concept (POC) Name:
 Adding friend to users network
