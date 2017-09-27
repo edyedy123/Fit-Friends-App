@@ -11,7 +11,6 @@ All database tables required for the above functionality are already in place. F
 
 ## Assumptions/Exclusions
 The functionality to edit and delete existing exercises is not part of this POC.  
-     
 <br> 
 <br> 
 <br> 
@@ -26,9 +25,9 @@ All database tables required for the above functionality are already in place. F
      
 ## Assumptions/Exclusions
 The functionality to add/modify an existing exercise or work plan list that is not part of this POC.
-     
-     
-      
+<br> 
+<br> 
+<br>            
 ## Proof of Concept (POC) Name:
 Adding friend to users network
 
