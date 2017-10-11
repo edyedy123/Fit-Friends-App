@@ -27,6 +27,7 @@ In this document, we will present how all classes for our system, which are desc
 
 
 ## Firebase
+* Representation of the database we are using.
 
 ## Interconnection between different tables
 
