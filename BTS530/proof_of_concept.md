@@ -16,7 +16,7 @@ The functionality to edit and delete existing exercises is not part of this POC.
 <br>
 
 ## Proof of Concept (POC) Name:
-Viewing a Friend's Workouts.
+Viewing a Friend's Workouts
      
 ## Functionality in this POC:
 A logged in user will select an added friend and view his or her workouts. The user can scroll down and view all past workouts that have been logged by their friend. Workouts are updated in real time as they are logged.
