@@ -19,8 +19,10 @@ The following tests will be conducted in order to test the meet-picking tool:
 
 | Number | Action | Output |
 | :---: | --- | --- |
-| 1 | A user selects an added friend. | The system shows the selected friend's workouts in a list sorted by date. |
-| 2 | A user clicks on friends from the main page but has no added friends | The system shows a "no friends added" message in the background  of the empty list. |
+| 1 | A user clicks on friends from the main page but has no added friends | The system shows a "no friends added" message in the background  of the empty list. |
+| 2 | A user clicks on friends from the main page and has added friends | The system shows the list of added friends |
+| 3 | A user selects an added friend. | The system shows the selected friend's workouts in a list sorted by date. |
+
 
 ## Adding Friend to Users Network
 
