@@ -23,7 +23,7 @@ In this document, we will present how all classes for our system, which are desc
 * Reps - number of repetitions for set (Integer)
 
 ## Friends
-* userName - Unique name that identifies the user in the system. List of added freinds. (String)
+* userName - Unique name that identifies the user in the system. List of added friends. (String)
 
 
 ## Firebase
