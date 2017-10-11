@@ -6,8 +6,8 @@ The following tests will be conducted in order to test the meet-picking tool:
 
 | Number | Action | Output |
 | :---: | --- | --- |
-| 1 | A user tries to pick a logging an Exercise without being logged-in | The system lets the user know that he/she needs to login in order to log an specific Exercise |
-| 2 | A logged-in user tries to enter an invalid exercise number, such as an negative number | The system lets the user know that the exercise number is invalid. |
+| 1 | A user enters valid weight and rep values and clicks save. | The system saves the values to the database and displays the inputted information in a list under the input fields. The input is updated as the user continues to add sets. |
+| 2 | Enter an invalid weight or rep values, such as an negative number | The system restricts input below zero and only numbers may be inputted. |
 
 
 
