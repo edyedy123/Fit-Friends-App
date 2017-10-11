@@ -31,5 +31,5 @@ The following tests will be conducted in order to test the meet-picking tool:
 | Number | Action | Output |
 | :---: | --- | --- |
 | 1 | A user enter friend's name in search text | The system shows a suggest of friends that have similar spelling usernames.  |
-| 2 | A user click on desired friend | The system shows the profile of desired friend.  |
+| 2 | A user click on desired friend | The system shows the profile account of desired friend.  |
 | 3 | A user click add friend button | The system sends a friend request  |
