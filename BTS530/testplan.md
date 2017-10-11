@@ -30,7 +30,6 @@ The following tests will be conducted in order to test the meet-picking tool:
 
 | Number | Action | Output |
 | :---: | --- | --- |
-| 1 | A user tries to Add an Friend without being logged-in | The system lets the user know that he/she needs to login in order to Add an Friend |
-| 2 | A logged-in user tries to enter an invalid username| The system lets the user know that the username is not exist. |
-| 3 | A logged-in user, tries to add himself | The system lets the user know that his/her action is invalid |
-| 4 | A logged-in user, tries to add an user that already in his network | The system informs the users that her/his action is invalid |
+| 1 | A user enter friend's name in search text | The system shows a suggest of friends that have similar spelling usernames.  |
+| 2 | A user click on desired friend | The system shows the profile of desired friend.  |
+| 3 | A user click add friend button | The system sends a friend request  |
