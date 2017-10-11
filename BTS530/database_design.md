@@ -22,7 +22,7 @@ In this document, we will present how all classes for our system, which are desc
 * Weight -Weight used for set (double)
 * Reps - number of repetitions for set (Integer)
 
-## Freinds
+## Friends
 * userName - Unique name that identifies the user in the system. List of added freinds. (String)
 
 
