@@ -6,8 +6,10 @@ The following tests will be conducted in order to test the meet-picking tool:
 
 | Number | Action | Output |
 | :---: | --- | --- |
-| 1 | A user enters valid weight and rep values and clicks save. | The system saves the values to the database and displays the inputted information in a list under the input fields. The input is updated as the user continues to add sets. |
-| 2 | Enter an invalid weight or rep values, such as an negative number | The system restricts input below zero and only numbers may be inputted. |
+| 1 | A user selects a body part category from the list. | The system displays the exercises saved for that category. |
+| 2 | A user selects an exercise from the list. | The system displays the set input page. |
+| 3 | A user enters valid weight and rep values and clicks save. | The system saves the values to the database and displays the inputted information in a list under the input fields. The input is updated as the user continues to add sets. |
+| 4 | Enter an invalid weight or rep values, such as an negative number | The system restricts input below zero and only numbers may be inputted. |
 
 
 
