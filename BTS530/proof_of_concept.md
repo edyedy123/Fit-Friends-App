@@ -16,16 +16,16 @@ The functionality to edit and delete existing exercises is not part of this POC.
 <br>
 
 ## Proof of Concept (POC) Name:
-Adding types of exercises to the list of exercises that the user can pick when logging in his exercises.
+Viewing a Frend's Workouts.
      
 ## Functionality in this POC:
-A logged in user will select a body part category (e.g. Biceps, Chest, Legs...).Then the user can modify the exercise list by clicking on the plus sign button and add an exercise that is missing from the list. The user will enter the name of the exercise and it will appear on the list.
+A logged in user will select an added friend and view his or her workouts. The user can scroll down and view all past workouts that have been logged by their friend. Workouts are updated in real time as they are logged.
     
 ## Data store:
-All database tables required for the above functionality are already in place. Firebase will update existing list of exercises and categories.    
+All database tables required for the above functionality are already in place. 
      
 ## Assumptions/Exclusions
-The functionality to add/modify an existing exercise or work plan list that is not part of this POC.
+The functionality to add/modify or copy an existing exercise or workout plan list is not part of this POC.
 <br> 
 <br> 
 <br>
