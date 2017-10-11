@@ -7,5 +7,8 @@ Below, you can see an activity diagrams showing all steps taken by the user, as 
 
 ## Logging an Exercise
 
-
 ![](/BTS530/Images/logging_exercise_activity.png)
+
+## Adding Friend's to Users Network
+
+![](/BTS530/Images/)
