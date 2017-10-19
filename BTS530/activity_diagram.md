@@ -14,5 +14,5 @@ Below, you can see an activity diagrams showing all steps taken by the user, as 
 ![](/BTS530/Images/adding_friend_to_users_network.png)
 
 ## User Login
-![](/BTS530/Images/UserLogin.png)
+![](/BTS530/Images/user_login.png)
 
