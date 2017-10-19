@@ -14,7 +14,6 @@ The functionality to edit and delete existing exercises is not part of this POC.
 <br> 
 <br> 
 <br>
-
 ## Proof of Concept (POC) Name:
 Viewing a Friend's Workouts
      
@@ -40,7 +39,9 @@ All database tables required for the above functionality are already in place.
 
 ## Assumptions/Exclusions
 The functionality to remove a friend is not part of this POC.
-
+<br> 
+<br> 
+<br>
 ## Proof of Concept (POC) Name:   
 User Login   
    
