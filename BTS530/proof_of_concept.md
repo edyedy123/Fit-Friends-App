@@ -40,3 +40,18 @@ All database tables required for the above functionality are already in place.
 
 ## Assumptions/Exclusions
 The functionality to remove a friend is not part of this POC.
+
+## Proof of Concept (POC) Name:   
+User Login   
+   
+## Functionality in this POC:
+A logged in user will log an exercise by selecting from a list of customizable exercises and inputting the weight and reps for each set.
+A user must login an authenticated username and password to able to access personal account. However, if a user doesn’t have any account with Fit Notes, the user can click “Need an Account?” button, and sign up the registration form. 
+
+## Data store:    
+All database tables required for the above functionality are already in place. Firebase updates information in real time.
+Assumptions/Exclusions     
+    
+## Assumptions/Exclusions        
+The functionality to edit or delete existing account is not part of this POC.    
+
