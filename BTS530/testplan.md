@@ -33,3 +33,13 @@ The following tests will be conducted in order to test the meet-picking tool:
 | 1 | A user enter friend's name in search text | The system shows a suggest of friends that have similar spelling usernames.  |
 | 2 | A user click on desired friend | The system shows the profile account of desired friend.  |
 | 3 | A user click add friend button | The system sends a friend request  |
+
+
+## User Login
+
+The following tests will be conducted in order to test the meet-picking tool:
+
+| Number | Action | Output |
+| :---: | --- | --- |
+| 1 | A user opens the application. | The systems display login page with the option of “Need an Account?” button for non-members. |
+| 2 | A user enters authenticated username and password. Then click login button | The system validated the username and password through matching against firebase system records. If the user information is valid, the system will redirect to user profile account, and if it invalid, the system display error message “ The username and password you entered did not match our records. Please double-check and try again”.  |
