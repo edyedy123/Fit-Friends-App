@@ -50,8 +50,7 @@ A user must login an authenticated username and password to able to access perso
 
 ## Data store:    
 All database tables required for the above functionality are already in place. Firebase updates information in real time.
-Assumptions/Exclusions     
-    
+
 ## Assumptions/Exclusions        
 The functionality to edit or delete existing account is not part of this POC.    
 <br> 
@@ -65,8 +64,7 @@ A user must fill up the registration form by entering personal details (such as 
 
 ## Data store:    
 All database tables required for the above functionality are already in place. Firebase updates information in real time.
-Assumptions/Exclusions     
-    
+   
 ## Assumptions/Exclusions        
 The functionality to edit or delete existing account is not part of this POC.    
 
