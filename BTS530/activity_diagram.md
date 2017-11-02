@@ -16,3 +16,5 @@ Below, you can see an activity diagrams showing all steps taken by the user, as 
 ## User Login
 ![](/BTS530/Images/user_login.png)
 
+## User Register for an Account
+![](/BTS530/Images/user_register.png)
