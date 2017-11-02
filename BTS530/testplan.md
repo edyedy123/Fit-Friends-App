@@ -43,3 +43,14 @@ The following tests will be conducted in order to test the meet-picking tool:
 | :---: | --- | --- |
 | 1 | A user opens the application. | The systems display login page with the option of “Need an Account?” button for non-members. |
 | 2 | A user enters authenticated username and password. Then click login button | The system validate the username and password through matching against firebase system records. If the user information is valid, the system will redirect to user profile account, and if it invalid, the system display error message “ The username and password you entered did not match our records. Please double-check and try again”.  |
+
+
+## User Register for an Account
+
+The following tests will be conducted in order to test the meet-picking tool:
+
+| Number | Action | Output |
+| :---: | --- | --- |
+| 1 | A user opens the application. | The systems display login page with the option of “Need an Account?” button for non-members. |
+| 2 | A user click "Need an Account?" button | The systems display registration page |
+| 3 | A user input authenticated credentials (e.g. name, password, email, etc.), and click on Create Account button | The system validate provided information through matching against firebase system records for any existing registered information. If the user information is valid, the system will redirect to user profile account, and if it invalid, the system display error message “ Please enter valid information and try again”. |
