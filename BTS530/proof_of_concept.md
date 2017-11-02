@@ -54,4 +54,21 @@ Assumptions/Exclusions
     
 ## Assumptions/Exclusions        
 The functionality to edit or delete existing account is not part of this POC.    
+<br> 
+<br> 
+<br>
+## Proof of Concept (POC) Name:   
+User Registers for an Account   
+   
+## Functionality in this POC:
+A user must login an authenticated username and password to able to access personal account. However, if a user doesn’t have any account with Fit Notes, the user can click “Need an Account?” button, and sign up the registration form. 
+
+A user must fill up the registration form by entering personal details (e.g. name, email, address, etc.) to able to register personal account.
+
+## Data store:    
+All database tables required for the above functionality are already in place. Firebase updates information in real time.
+Assumptions/Exclusions     
+    
+## Assumptions/Exclusions        
+The functionality to edit or delete existing account is not part of this POC.    
 
