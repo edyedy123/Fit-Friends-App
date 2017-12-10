@@ -3,15 +3,15 @@ Below, you can see an activity diagrams showing all steps taken by the user, as 
 
 ## Viewing a Friend's Workouts 
 
-![](/BTS530/Images/view_friend_activity.png)
+![](/BTS530/Images/ViewFriendsWorkout.png)
 
 ## Logging an Exercise
 
-![](/BTS530/Images/logging_exercise_activity.png)
+![](/BTS530/Images/LogginAnExercise.png)
 
 ## Adding Friend's to Users Network
 
-![](/BTS530/Images/adding_friend_to_users_network.png)
+![](/BTS530/Images/AddingFriendsToNetwork.png)
 
 ## User Login
 ![](/BTS530/Images/user_login.png)
