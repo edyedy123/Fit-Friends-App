@@ -36,4 +36,4 @@ In this document, we will present how all classes for our system, which are desc
 
 The figure below show how different tables are interconnected. 
 
-![](/BTS530/Images/DatabaseDesign2.png)
+![](/BTS530/Images/DatabaseDesign.png)
