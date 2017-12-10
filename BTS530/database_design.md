@@ -10,7 +10,7 @@ In this document, we will present how all classes for our system, which are desc
 * image - optional image for user profile (Image)
 * dateCombo -Used for main screen looper to access user's logged workouts (DATE())
 * workoutNumber - number of exercises  logged (Integer)
-* friends  - Added friends list (ForeignKey->Freinds)
+* friends  - Added friends list (ForeignKey->Friends)
 * workouts - Logged workouts list (ForeignKey->Workouts)
 
 ## Workouts
