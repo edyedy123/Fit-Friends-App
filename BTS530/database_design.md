@@ -24,7 +24,10 @@ In this document, we will present how all classes for our system, which are desc
 
 ## Friends
 * userName - Unique name that identifies the user in the system. List of added friends. (String)
+* mutualFriends - A friend users with whom this user is friends with (ForeignKey->MutualFriends)
 
+## MutualFriends
+* userName - Unique name that identifies the user in the system. List of friends of the user friends.(String)
 
 ## Firebase
 * Representation of the database we are using.
