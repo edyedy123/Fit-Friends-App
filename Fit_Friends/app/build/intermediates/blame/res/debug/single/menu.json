@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity.xml",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\menu\\menu_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_menu.xml",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\menu\\add_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\menu\\friends.xml",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\menu\\friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_sets.xml",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\menu\\delete_sets.xml"
+    }
+]

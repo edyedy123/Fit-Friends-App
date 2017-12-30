@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\friends.png",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\drawable\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gym_icon_copy.png",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\drawable\\gym_icon_copy.png"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gym_icon.png",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\drawable\\gym_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\8ed42118d0fdf6bf6cabb47f96b3a93329761ffa\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\b0f5542f1e8c0f5d1134a743ce01108be7635ce1\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\b0f5542f1e8c0f5d1134a743ce01108be7635ce1\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\8ed42118d0fdf6bf6cabb47f96b3a93329761ffa\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\8ed42118d0fdf6bf6cabb47f96b3a93329761ffa\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_background.xml",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\b0f5542f1e8c0f5d1134a743ce01108be7635ce1\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\b0f5542f1e8c0f5d1134a743ce01108be7635ce1\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\b0f5542f1e8c0f5d1134a743ce01108be7635ce1\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_workout.xml",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\drawable\\add_workout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\friends4.jpeg",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\drawable\\friends4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\b0f5542f1e8c0f5d1134a743ce01108be7635ce1\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\b0f5542f1e8c0f5d1134a743ce01108be7635ce1\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\b0f5542f1e8c0f5d1134a743ce01108be7635ce1\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_calendar_24dp.xml",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\drawable\\ic_calendar_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_background.xml",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\drawable\\input_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus2.jpeg",
+        "source": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\src\\main\\res\\drawable\\plus2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edy\\Desktop\\Group_24-master\\Fit Friends\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Edy\\.android\\build-cache\\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\\output\\res\\drawable\\notification_icon_background.xml"
+    }
+]

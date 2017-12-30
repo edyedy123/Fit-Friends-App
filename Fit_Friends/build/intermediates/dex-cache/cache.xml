@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\1a689c676bad9a785b69ea51ac017b6364be14b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56fb26d74710f6a371a92bee94e031a20d4e5ce9">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_f31beb8d9d9e254cbf0495acb3cafc102519c10b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_501dbe0634937b46c79cc4403339c5526943b789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\b0391121977ee8ff18ac99cf764aa2c724e62148\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_f261a3bf8992957dcfa49b84f7bea9bcf601dc5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\997da33bab6d851127a15744d587c17265d16dd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_f23fad41e1ca4a7591e9cb761aeb71b86db00a13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\4a2e64472b25ef77554ad711724b0d80fa7f52b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_b77b59748d35f7685a544dfe6728b61d84201924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\0504019967dc36cbd8aa5467ad33e3e071b0a001\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_b00798fd515036cf281b4a5a60015217fa53c458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\6ea1fb08dfaf22ebe163b0cd5db1b30aa6d268f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_f3b283865e0f54c550539890f1c0523112062ea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\8a1d70a76f2b48310b390cb5fda900b27a24ff09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_66ecdc87f5bbb6b05e95783459bb5aafd13098b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\73734f39afba65a3fdb26f2613f7167778f25ed1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_19694d872488013004c96f7e2c1a1e0d9e2eb633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\b0f5542f1e8c0f5d1134a743ce01108be7635ce1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_687cbf671151139fbe5305f990c1fb2ecfe56c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\7a04cd12a7b23f74df0d62b53ac226c2a4d6b2c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_99231024c591eeba326280d5811ab4063799884b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\8ed42118d0fdf6bf6cabb47f96b3a93329761ffa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_07631278dfc9ec1d0b474dfca02e8f15e8b9c570.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0eed8ea87c35fd13bca4fefcf4f5585046ff9ca6">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_652517a7c459fa623c236aa08086c4e07d5a7aac\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\7587c7138e9567d31d6e778c3c4c2c4747acbc23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_06fefc56aa0acd97f0a4fff451effe9b3524ec0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\6682028d45e0b5b32af9811e51387b4ed8f6ea6b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_b909cae6d7c2f517f1ae69d42d769bdbb1247c6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\96f2e0d4993f9ad281b9fd00a6dc3a00e083d0a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_b9b152c66474609ca801ba2ef04548c69e5302e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\bae9d555ef632ca99b00f46e522e3c17cdd2d0ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_fc2d2315abf72adb137db120bff96eaaf34ed9b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\6cf25878066f2bdc68c3f910456a0b3bdaed53b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_e3865c4b20c0117e511f72157c872256e76091ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\47eae5657aab8e125f637749e3ca35b6868132a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6de2bac7883622e50edcd4cf5cd9606aaea3aa">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_6ca93ffbe63e406f39a348b40b4574962ba13b72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\49cdef1cd7c5ec120b4490e4b33e8494f318df29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b628ed03e9a74305f2c887ddce30ab0bac43df15">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_4810a9b14db67b352d777a6c98e56bfa68941f4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\c02190474208edb5e00cfd0520a3f320bf93f11c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_2d39f5a74a78badf546e339efda63350ea055acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.gradle\caches\modules-2\files-2.1\cn.okayj\lineartree\0.3.2\f7dcd2aa2e22c3498f568bfd9a819a38aea6d7c6\lineartree-0.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7dcd2aa2e22c3498f568bfd9a819a38aea6d7c6">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\lineartree-0.3.2_b40f648b8b9a88d2a1492dea1532fad04f17338e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\325d57d11abda2c5991cac3f4d65e28cbe59bfd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_cc2249d4ff0695342a2f85a84ff79c5f45a630e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\cb5babd90aaffcc1a17b8e48b4a4d9f21854243d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48fdb7f995abf31edb03096ce1b3873909fc49db">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_222fb5184fda874f65874897d86cc1d227017feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\496b6d21262c69387a697c061e6f665e3b4133e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2531394af2a992f6192726b9b338a229b493c01">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_d529452facc7e280467dd174b41646d3506fbfe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\57e6f9d3ed0cca76166b2439c7464ba8566f9548\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_49338f161008b6b1149c9eb7442902e7e1288a81.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c56691280c9abd6bd07420b37eb09887fe2f3f31\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3792a897f3f6e0cb229ee35968cfff67d45ba1c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\25f38da1f9fc94025f4b39f18e30d7fdf8ce3dbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_114efb9a149170c64a24e7d8f12dcee836042f11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\f420b744c3fcd65f5eedbddbf4f3ba2a076c7d53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_2ac5c80054c796e371e1d386c923db4b73b97daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\31a3e77c47ec9231b4995d0ba0896ec1cf65ff72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_12a8ce21737e5015beb4f754deb43db1a42ba753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\e7c64682dbbe427796d9e9661a48daa8bf32f310\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_2f1d0c42aa9ab7ea8d118950471d2de2f8ba0730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edy\.android\build-cache\3e03e3b75ccffceea9627ff8478fb6ca3aacd3b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Edy\Desktop\Group_24-master\Fit Friends\app\build\intermediates\pre-dexed\debug\classes_3b80c68f09efb589880c6af10a88cbd9233c9caa.jar" />
+    </item>
+
+</items>
