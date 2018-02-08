@@ -4,11 +4,11 @@
 
 ### Improve UI design and color schemes to improve user experience. ###
 
-** Ensure all buttons are properly spaced and easily accessible. **
+* Ensure all buttons are properly spaced and easily accessible.
 
-** Create appealing consistant color theme across all pages **
+* Create appealing consistant color theme across all pages 
 
-** Change the friend's search bar list to be bigger and more appealing **
+* Change the friend's search bar list to be bigger and more appealing 
 
-** Change the friend's listView so that friends are bigger and more appealing **
+* Change the friend's listView so that friends are bigger and more appealing 
 
