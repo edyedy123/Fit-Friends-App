@@ -1,12 +1,8 @@
 # Iterations
 
-## Iteration One
+## Iteration Two
 
-### Improve UI design and color schemes to improve user experience. ###
-
-# Iterations
-
-## Iteration One
+### Improve UI design by adding features ###
 
 #Gerald:
 # Iterations
