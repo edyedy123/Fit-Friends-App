@@ -9,7 +9,7 @@
 * Update exercise button by adding pictures, adding spaces in between, and change the font style, size & color.
 
 ### Eduardo:
-* Add profile account which include profile photo and personal infor such as name, age, gender, weight, height and so on
+* Add profile account which include profile photo and personal info such as name, age, gender, weight, height and so on
 
 ### Cha:
 * Send Friend request
