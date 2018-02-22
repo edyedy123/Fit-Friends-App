@@ -10,10 +10,9 @@
 
 ### Eduardo:
 * Add copying a friend's workout into the user's log functionality.
-* Complete friend request functionality by having added friend need to accept request.
+
 
 ### Cha:
-* Add a ranking system along with proflile account which allow the user to compete training result with friends. For example, who did most work out in past months. 
-
+* Complete friend request functionality by having added friend need to accept request.
 
 
