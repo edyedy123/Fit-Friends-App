@@ -14,6 +14,6 @@
 
 
 ### Cha:
-* Complete friend request functionality by having added friend need to accept request.
+* Complete friend request functionality by having the added friend need to accept request.
 
 
