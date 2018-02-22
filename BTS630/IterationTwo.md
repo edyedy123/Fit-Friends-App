@@ -13,7 +13,7 @@
 * Complete friend request functionality by having added friend need to accept request.
 
 ### Cha:
-* Add a ranking system along with proflile account which allow the user to compete training result with friends. For exmaple, who did most work out in past months. 
+* Add a ranking system along with proflile account which allow the user to compete training result with friends. For example, who did most work out in past months. 
 
 
 
