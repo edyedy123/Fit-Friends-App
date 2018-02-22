@@ -2,7 +2,7 @@
 
 ## Iteration Two
 
-### Improve UI design by adding features ###
+### Improve UI design and adding features ###
 
 ### Gerald:
 * Update current logo using illustrator to remove choppyness in current logo.
