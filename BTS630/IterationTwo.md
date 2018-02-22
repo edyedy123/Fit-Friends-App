@@ -12,7 +12,7 @@
 * Add profile account which include profile photo and personal info such as name, age, gender, weight, height and so on
 
 ### Cha:
-* Send Friend request
+* Add a ranking system along with proflile account which allow the user to compete training result with friends. For exmaple, who did most work out in past months. 
 
 
 
