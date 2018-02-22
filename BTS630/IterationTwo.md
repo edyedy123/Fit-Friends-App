@@ -5,7 +5,7 @@
 ### Improve UI design by adding features ###
 
 ### Gerald:
-* Update current logo including gym icon, add friend icon and add workout icon.   
+* Update current logo using illustrator to remove choppyness in current logo.
 * Update exercise button by adding pictures, adding spaces in between, and change the font style, size & color.
 
 ### Eduardo:
