@@ -1,4 +1,0 @@
-#Tue Mar 06 19:44:50 EST 2018
-base.0=C\:\\Users\\Edy\\Desktop\\Group_24-master\\Fit_Friends\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
-path.0=classes.dex
-renamed.0=classes.dex
