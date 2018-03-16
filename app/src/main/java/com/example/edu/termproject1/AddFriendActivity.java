@@ -156,47 +156,47 @@ public class AddFriendActivity extends AppCompatActivity {
                     valid=1;
                 }
                 //add friend if valid is 0
-              if(valid==0){
+                if(valid==0){
 
-                  mUserId.child(selection).addListenerForSingleValueEvent(new ValueEventListener () {
+                    mUserId.child(selection).addListenerForSingleValueEvent(new ValueEventListener () {
 
-                      @Override
-                      public void onDataChange(DataSnapshot dataSnapshot) {
-                          uID = dataSnapshot.getValue(String.class);
-                          mFriend = FirebaseDatabase.getInstance().getReference().child("Users").child(uID);
-                          mFriend.child("pending").addListenerForSingleValueEvent(new ValueEventListener() {
-                              @Override
-                              public void onDataChange(DataSnapshot dataSnapshot) {
-                                  if (dataSnapshot.getValue() != null) {
-                                      pendingFriendList = (List) dataSnapshot.getValue();
-                                      for (int i = 0; i < pendingFriendList.size(); i++) {
-                                          if (pendingFriendList.get(i).equals(currentUser.getUserName())) {
-                                              Toast.makeText(getApplicationContext(), "Friend Request Already Sent", Toast.LENGTH_LONG).show();
-                                              valid2 = 1;
-                                          }
-                                      }
-                                  }
-                                  if (valid2 == 0) {
-                                      Toast.makeText(getApplicationContext(), msg1, Toast.LENGTH_LONG).show();
-                                      pendingFriendList.add(currentUser.getUserName());
-                                      pendingFriendList.add(user_id);
-                                      mFriend.child("pending").setValue(pendingFriendList);
-                                  }
-                              }
+                        @Override
+                        public void onDataChange(DataSnapshot dataSnapshot) {
+                            uID = dataSnapshot.getValue(String.class);
+                            mFriend = FirebaseDatabase.getInstance().getReference().child("Users").child(uID);
+                            mFriend.child("pending").addListenerForSingleValueEvent(new ValueEventListener() {
+                                @Override
+                                public void onDataChange(DataSnapshot dataSnapshot) {
+                                    if (dataSnapshot.getValue() != null) {
+                                        pendingFriendList = (List) dataSnapshot.getValue();
+                                        for (int i = 0; i < pendingFriendList.size(); i++) {
+                                            if (pendingFriendList.get(i).equals(currentUser.getUserName())) {
+                                                Toast.makeText(getApplicationContext(), "Friend Request Already Sent", Toast.LENGTH_LONG).show();
+                                                valid2 = 1;
+                                            }
+                                        }
+                                    }
+                                    if (valid2 == 0) {
+                                        Toast.makeText(getApplicationContext(), msg1, Toast.LENGTH_LONG).show();
+                                        pendingFriendList.add(currentUser.getUserName());
+                                        pendingFriendList.add(user_id);
+                                        mFriend.child("pending").setValue(pendingFriendList);
+                                    }
+                                }
 
-                              @Override
-                              public void onCancelled(DatabaseError databaseError) {
+                                @Override
+                                public void onCancelled(DatabaseError databaseError) {
 
-                              }
-                          });
-                      }
+                                }
+                            });
+                        }
 
-                      @Override
-                      public void onCancelled(DatabaseError databaseError) {
+                        @Override
+                        public void onCancelled(DatabaseError databaseError) {
 
-                      }
+                        }
 
-                  });
+                    });
 
 
                 }
@@ -205,4 +205,3 @@ public class AddFriendActivity extends AppCompatActivity {
     }
 
 }
-
