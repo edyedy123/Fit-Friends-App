@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="pl.rafman.widgets:scroll-calendar-1.5.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/scroll-calendar-1.5.1.aar/c00c9b572982afada5a97372f322fbd8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/scroll-calendar-1.5.1.aar/c00c9b572982afada5a97372f322fbd8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.rafman.widgets/scroll-calendar/1.5.1/15d2d2cdb7d420dc4ba1945cf344dffae0b96133/scroll-calendar-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

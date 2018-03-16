@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Fit Friends</string>
+    <string name="registerError">Somthing Went Wrong</string>
+    <string-array name="bodyPart_array">
+        <item>Chest</item>
+        <item>Legs</item>
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Shoulders</item>
+        <item>Back</item>
+        <item>Abs</item>
+        <item>Cardio</item>
+    </string-array>
+
+    <string-array name="Shoulders">
+        <item>Arnold Dumbbell Press</item>
+        <item>Behind The Neck Barbell Press</item>
+        <item>Cable Face Pull</item>
+        <item>Front Dumbell Raise</item>
+        <item>Hammer Strength Shoulder Press</item>
+        <item>Lateral Dumbbell Raise</item>
+        <item>Lateral Machine Raise</item>
+        <item>Log Press</item>
+        <item>One Arm Standing Dumbbell Press</item>
+        <item>Overhead Press</item>
+        <item>Push Press</item>
+        <item>Rear Delt DumbBell Raise</item>
+        <item>Rear Delt Machine Fly</item>
+        <item>Seated Dumbbell Lateral Raise</item>
+        <item>Seated Dumbbell Press</item>
+        <item>Smith Machine Overhead Press</item>
+    </string-array>
+    <string-array name="Legs">
+        <item>Barbell Calf Raise</item>
+        <item>Barbell Front Squat</item>
+        <item>Barbell Squat</item>
+        <item>Donkey Calf Raise</item>
+        <item>Leg Extension Machine</item>
+        <item>Seated Calf Raise Machine</item>
+        <item>Standing Calf Raise Machine</item>
+        <item>Deadlift</item>
+        <item>Sumo Deadlift</item>
+        <item>Seated Leg Curl Machine</item>
+        <item>Leg Press Machine</item>
+    </string-array>
+    <string-array name="Biceps">
+        <item>Barbell Curl</item>
+        <item>Cable Curl</item>
+        <item>Dumbbell Concentration Curl</item>
+        <item>Dumbbell Curll</item>
+        <item>Dumbbell Hammer Curl</item>
+        <item>Dumbbell Preacher Curl</item>
+        <item>EZ-Bar Curl</item>
+        <item>EZ-Bar Preacher Curl</item>
+        <item>Seated Incline Dumbbell Curl</item>
+        <item>Seated Machine Curl</item>
+    </string-array>
+    <string-array name="Triceps">
+        <item>Cable Overhead Triceps Extension</item>
+        <item>Close Grip Barbbell Bench Press</item>
+        <item>EZ-Bar Skullcrusher</item>
+        <item>Lying Triceps Extension</item>
+        <item>Parallel Bar Triceps Dip</item>
+        <item>Ring Dip</item>
+        <item>Rope Push Down</item>
+        <item>Smith Machine Close Grip Bench Press</item>
+        <item>V-Bar Push Down</item>
+    </string-array>
+    <string-array name="Chest">
+        <item>Cable Crossover</item>
+        <item>Decline Barbell Bench Press</item>
+        <item>Decline Hammer Strength Chest Press</item>
+        <item>Flat Barbell Bench Press</item>
+        <item>Flat Dumbbell Bench Press</item>
+        <item>Flat Dumbbell Fly</item>
+        <item>Incline Barbell Bench Press</item>
+        <item>Incline Dumbbell Bench Press</item>
+        <item>Incline Dumbbell Fly</item>
+        <item>Incline Hammer Strength Chest Press</item>
+    </string-array>
+    <string-array name="Back">
+        <item>Barbell Row</item>
+        <item>Barbell Shrug</item>
+        <item>Chin up</item>
+        <item>Deadlift</item>
+        <item>Dumbbell Row</item>
+        <item>Good Morning</item>
+        <item>Hammer Strength Row</item>
+        <item>Lat Pulldown</item>
+        <item>Machine Shrug</item>
+        <item>Neutral Chin Up</item>
+        <item>Pendlay Row</item>
+        <item>Pull Up</item>
+        <item>Rack Pull</item>
+        <item>Seated Cable Row</item>
+        <item>Straight-Arm Cable Pushdown</item>
+        <item>T-Bar Row</item>
+    </string-array>
+    <string-array name="Abs">
+        <item>Side Plank</item>
+        <item>Plank</item>
+        <item>Hanging Leg Raise</item>
+        <item>Hanging Knee Raise</item>
+        <item>Dragon Flag</item>
+        <item>Decline Crunch</item>
+        <item>Crunch Machine</item>
+        <item>Crunch</item>
+        <item>Ab-Wheel Rollout</item>
+        <item>Cable Crunch</item>
+        <item>Sit up</item>
+    </string-array>
+    <string-array name="Cardio">
+        <item>Cycling</item>
+        <item>Elliptical Trainer</item>
+        <item>Rowing Machine</item>
+        <item>Running(Outdoor)</item>
+        <item>Running(Treadmill)</item>
+        <item>Stationary Bike</item>
+        <item>Swimming Bike</item>
+        <item>Walking</item>
+    </string-array>
+    <string name="title_activity_friends">FriendsActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
